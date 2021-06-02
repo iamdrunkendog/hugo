@@ -1,0 +1,3 @@
+[submodule "puiblic"]
+	path = puiblic
+	url = https://github.com/iamdrunkendog/blog
