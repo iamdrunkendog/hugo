@@ -1,5 +1,8 @@
 // Global CSS rules for all screen size
 #sidebar {
+    // 추가
+    box-shadow: 5px 5px;
+    // 추가끝
     font-family:        map-get($font-families, 'sidebar');
     height:             100%;
     position:           fixed;
