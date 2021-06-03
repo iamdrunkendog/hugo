@@ -1,3 +1,6 @@
 [submodule "public"]
 	path = public
 	url = https://github.com/iamdrunkendog/blog.git
+[submodule "notion2hugo"]
+	path = notion2hugo
+	url = https://github.com/iamdrunkendog/notion2hugo.git

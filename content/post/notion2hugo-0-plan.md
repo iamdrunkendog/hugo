@@ -1,21 +1,21 @@
 ---
-title: "[notion-to-hugo] 노션으로 작성한 글을 Hugo 포스트로 변환해주는 프로젝트"
+title: "[Notion2Hugo] 노션으로 작성한 글을 Hugo 포스트로 변환해주는 프로젝트 계획"
 date: 2021-06-03T19:32:00+09:00
 categories:
 - Projects
-- notion-to-hugo
+- Notion2Hugo
 tags:
 - Hugo
 - Notion
 - Python
-- notion-to-hugo
+- Notion2Hugo
 keywords:
 - tech
 #thumbnailImage: //example.com/image.jpg
 ---
-이 포스트는 Notion으로 작성한 게시글을 정적 사이트 생성기(SSG, Static Site Generator) Hugo의 Post로 컨버팅해주는 **notion-to-hugo**의 개발 일지입니다.
+이 포스트는 Notion으로 작성한 게시글을 정적 사이트 생성기(SSG, Static Site Generator) Hugo의 Post로 컨버팅해주는 **Notion2Hugo**의 개발 일지입니다.
 
-프로젝트의 진행 상황, 관련 정보는 [**notion-to-hugo**의 GitHub Repo](https://github.com/iamdrunkendog/notion-to-hugo)에서 확인하실 수 있습니다.
+프로젝트의 진행 상황, 관련 정보는 [**Notion2Hugo**의 GitHub Repo](https://github.com/iamdrunkendog/Notion2Hugo)에서 확인하실 수 있습니다.
 ***
 ## 노션으로 작성한 글을 더 쉽게 배포할 수 없을까?
 
