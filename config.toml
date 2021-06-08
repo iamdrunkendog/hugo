@@ -76,6 +76,14 @@ canonifyurls = true
   name = "About"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-question\"></i>"
   url = "/#about"
+  
+  [[menu.main]]
+  weight = 6
+  identifier = "search"
+  name = "Search"
+  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-search\"></i>"
+  url = "/#search"
+  class = "st-search-show-outputs"
 
 [[menu.links]]
   weight = 1
@@ -167,6 +175,7 @@ canonifyurls = true
   #     url: /#search
   #     icon: search
   #     class: st-search-show-outputs
+  
 
   # Display `Next` on left side of the pagination, and `Prev` on right side one.
   # If you set this value to `true`, these positions swap.
@@ -202,10 +211,9 @@ canonifyurls = true
     url = "https://plus.google.com/share?url=%s"
 
   [params.header.rightLink]
-    class = ""
-    icon = ""
-    url = "/#about"
-
+    class = "open-algoria-search"
+    icon = "search"
+    url = "/#search"
   # Customize link of author avatar in sidebar
   # [params.sidebar.profile]
   #   url = "/#about"
